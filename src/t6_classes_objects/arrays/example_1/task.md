@@ -1,0 +1,13 @@
+1. Создайте класс `Category`
+    - поля:
+        - `name` (название)
+        - `products` (массив товаров)
+    - методы:
+        - `showAllProducts()` - должен распечатать название всех товаров
+        - `getProductsSum()` - возвращает сумму стоимости всех товаров
+        - `getAverageSum()` - возвращает ср. стоимость всех товаров
+        - `addProduct(Product product)` - добавляет товар в массив
+        - `removeProduct(String productName)` — удаляет продукт по имени
+        - `findProduct(String productName)` — возвращает продукт по имени
+        - `getMostExpensiveProduct()` — возвращает самый дорогой продукт
+        - `getCheapestProduct()` — возвращает самый дешёвый продукт

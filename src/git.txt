@@ -1,0 +1,9 @@
+1. git init
+
+2. В .gitignore написать .idea и название_проекта.iml
+3. git add .
+4. git commit -m "init"
+5. В github создать репозиторий java-practice
+6. git remote add origin ссылка
+7. push
+
