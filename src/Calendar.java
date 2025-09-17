@@ -18,9 +18,7 @@ public class Calendar {
             }
             System.out.println("\n");
 
-            // comment
-            // comment
-            // comment
+
             // comment
             // comment
             //commit
