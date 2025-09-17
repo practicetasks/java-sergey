@@ -12,6 +12,8 @@ public class FinanceApp {
         System.out.println("Сколько дней до зарплаты?");
         int daysBeforeSalary = scanner.nextInt();
 
+
+
         while (true) {
             printMenu();
             int command = scanner.nextInt();
