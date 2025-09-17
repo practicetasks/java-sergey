@@ -20,7 +20,6 @@ public class Calendar {
 
 
             // comment
-            // comment
             //commit
         }
     }
